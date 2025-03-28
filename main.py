@@ -10,7 +10,7 @@ import uvicorn
 
 # โหลด .env และดึง Token
 load_dotenv()
-TOKEN = os.getenv("DISCORD_TOKEN")
+TOKEN = os.getenv("MTM1NTEwMzgxNDQwNzAyODc5Ng.G6g3BC.z_GfnuioPXDjZ1RiQ8MUX-4Jk7CU_Yp1_dUokg")
 
 # กำหนด PORT (Render ใช้ตัวแปร PORT)
 PORT = int(os.environ.get("PORT", 8000))
