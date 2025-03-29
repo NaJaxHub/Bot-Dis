@@ -1,11 +1,7 @@
 -- test.lua
 local whitelistPak = {
-    { Hwid = "d", Key = "g"},{ Hwid = "m", Key = "x"},{ Hwid = "x", Key = "n"}
-,
-    { Hwid = "k", Key = "z"},    
+
 }
-,
-    }
 
 
 
