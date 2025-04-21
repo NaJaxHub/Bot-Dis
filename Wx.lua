@@ -1,3 +1,4 @@
 local whitelistPak = {
+    { Hwid = "HWIDMRMAXNAJA", Key = "893294010762928149" },
     { Hwid = "s", Key = "893294010762928149" },
 }
