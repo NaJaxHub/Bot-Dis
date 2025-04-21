@@ -1,5 +1,3 @@
-return {}
-
-a:s
-asdasd:asdasd
-893294010762928149:SDF-XCV-XCVXCBF-DFS
+local whitelistPak = {
+    { Hwid = "lol", Key = "893294010762928149" },
+}
