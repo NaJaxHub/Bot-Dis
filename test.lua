@@ -1,8 +1,5 @@
--- test.lua
 local whitelistPak = {
-    { Hwid = "key", Key = "hwid"},{ Hwid = "a", Key = "a"},{ Hwid = "ij", Key = "opl"},}
-
-
-
-
--- ฟังก์ชันอื่น ๆ ที่ใช้ในสคริปต์นี้
+    { Hwid = "x", Key = "1119509280480038972", ExpiryDate = math.huge, Permanent = true },
+    { Hwid = "ssss", Key = "893294010762928149", ExpiryDate = math.huge, Permanent = true },
+}
+return whitelistPak
