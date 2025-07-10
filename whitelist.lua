@@ -12,7 +12,7 @@ local whitelistPak = {
     {
         Hwid = "xxx",
         Key = "953582724067766322",
-        Verify = true
+        Verify = false
     },
     {
         Hwid = "xxx",
