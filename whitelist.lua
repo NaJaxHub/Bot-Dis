@@ -19,5 +19,10 @@ local whitelistPak = {
         Key = "0000",
         Verify = false
     },
+    {
+        Hwid = "a",
+        Key = "1391264056194760724",
+        Verify = false
+    },
 }
 return whitelistPak
